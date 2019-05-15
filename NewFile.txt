@@ -3,3 +3,4 @@
 
 local changes ....
 local vs git hub
+clean up steps add
